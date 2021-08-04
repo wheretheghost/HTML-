@@ -1,0 +1,19 @@
+### HTML是谁发明的
+
+李博士
+
+### HTML起手应该写什么
+
+老师教的起手式里面的html骨架
+
+### 常用的表章节的标签有哪些，分别是什么意思
+
+标题h1~h6 头部header 脚部footer 章节section 主要内容main 文章article 旁支内容aside 段落p 划分div 
+
+### 全局属性有哪些
+
+class contenteditable hidden id style tabindex title 
+
+### 常用的内容标签有，分别的意思为
+
+a超链接标签 strong加粗 em斜体 code等宽 pre保留多个空格和回车
